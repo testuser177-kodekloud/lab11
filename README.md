@@ -1,6 +1,6 @@
 # Solar System NodeJS Application
 
-- edit - 12345
+- edit - 123456
 A simple HTML+MongoDB+NodeJS project to display Solar System and it's planets.
 
 ---
